@@ -3,5 +3,5 @@ Aplicação desenvolvida na linguagem Java + Junit simulando um jogo, entre dois
 
 # Regras
 Papel empata com Papel e ganha de Pedra.
-Tesoura empata com Tesoura e ganha de Papl e papel empata com Papel e ganha de Pedra
+Tesoura empata com Tesoura e ganha de Papel e papel empata com Papel e ganha de Pedra
 
